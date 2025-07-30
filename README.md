@@ -2,6 +2,6 @@
 
 Freshwater Variables and Habitat suitability models, and ecological niche models of freshwater fishes of Chile.
 
-#Repositorio Proyecto
+#PhD Project Repository
 
-#Identificación, obtención y mapeamiento de variables ambientales y métricas espaciales para el modelamiento del nicho y distribución de especies dulceacuícolas en un escenario de cambio climatico, especies invasoras y fraccionamiento ecosistémico en las cuencas hidrográficas de Chile
+#Identification, collection, and mapping of environmental variables and spatial metrics for modeling the niche and distribution of freshwater species in a scenario of climate change, invasive species, and ecosystem fragmentation in Chile's watersheds.
